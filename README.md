@@ -5,6 +5,7 @@ This is not complex to upload project on github and how to show commit of projec
 
 Step-1 
 :- Login your's GitHub Account.
+<br />
 Step-2
 :- Create new repository (or for more help show image pic1.png and pic2.png)
 Step-3
@@ -31,7 +32,7 @@ Step-10
 # Show commit of your project
 :- git log
 Ex---
-# netset@linux:~/Downloads/GIT/UploadProject$ git log
+# computer@linux:~/Downloads/GIT/UploadProject$ git log
 # commit l8ab9f78534a5g8de5d90ac15cdf796afd770e8e (HEAD -> master, origin/master)
 # Author: Your Name <you@example.com>
 # Date:   Thu Aug 29 10:07:30 2019 +0530
