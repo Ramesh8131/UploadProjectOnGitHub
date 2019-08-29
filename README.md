@@ -1,4 +1,4 @@
-# Upload Project On GitHub Website
+# How to Upload Project On GitHub Website
 
 This is not complex to upload project on github and how to show commit of project.
 
