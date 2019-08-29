@@ -40,7 +40,7 @@ Step-10
 # Show commit of your project
 :- git log
 Ex---
-# computer@linux:~/Downloads/GIT/UploadProject$ git log
+# pc@linux:~/Downloads/GIT/UploadProject$ git log
 # commit l8ab9f78534a5g8de5d90ac15cdf796afd770e8e (HEAD -> master, origin/master)
 # Author: Your Name <you@example.com>
 # Date:   Thu Aug 29 10:07:30 2019 +0530
