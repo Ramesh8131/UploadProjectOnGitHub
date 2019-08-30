@@ -42,7 +42,7 @@ Step-10
 :- git log 
 <br />
 # Ex---
- pc@linux:~/Downloads/GIT/UploadProject$ git log
+ pc@linux:~/Downloads/GIT/UploadProject$ <b> git log</b>
  <br />
  commit l8ab9f78534a5g8de5d90ac15cdf796afd770e8e (HEAD -> master, origin/master)
  Author: Your Name <you@example.com>
