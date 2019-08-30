@@ -39,8 +39,9 @@ then show image  pic4.png and from here copy cmd and run on your Command Prompt
 <br />
 Step-10 
 # Show commit of your project
-:- git log
-Ex---
+:- git log 
+<br />
+# Ex---
 # pc@linux:~/Downloads/GIT/UploadProject$ git log
 # commit l8ab9f78534a5g8de5d90ac15cdf796afd770e8e (HEAD -> master, origin/master)
 # Author: Your Name <you@example.com>
