@@ -53,4 +53,4 @@ Step-10
 # this is Your Commit:--l8ab9f78534a5g8de5d90ac15cdf796afd770e8e
 
 <br />
-<center>![alt text](https://raw.githubusercontent.com/Ramesh8131/UploadProjectOnGitHub/master/Screenshot%20from%202019-08-30%2010-17-53.png)</center>
+![alt text](https://raw.githubusercontent.com/Ramesh8131/UploadProjectOnGitHub/master/Screenshot%20from%202019-08-30%2010-17-53.png)
