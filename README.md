@@ -51,6 +51,4 @@ Step-10
 
    add all my files
 # this is Your Commit:--l8ab9f78534a5g8de5d90ac15cdf796afd770e8e
-
-<br />
 ![alt text](https://raw.githubusercontent.com/Ramesh8131/UploadProjectOnGitHub/master/Screenshot%20from%202019-08-30%2010-17-53.png)
