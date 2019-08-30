@@ -42,9 +42,10 @@ Step-10
 :- git log 
 <br />
 # Ex---
-# pc@linux:~/Downloads/GIT/UploadProject$ git log
-# commit l8ab9f78534a5g8de5d90ac15cdf796afd770e8e (HEAD -> master, origin/master)
-# Author: Your Name <you@example.com>
-# Date:   Thu Aug 29 10:07:30 2019 +0530
+ pc@linux:~/Downloads/GIT/UploadProject$ git log
+ commit l8ab9f78534a5g8de5d90ac15cdf796afd770e8e (HEAD -> master, origin/master)
+ Author: Your Name <you@example.com>
+ Date:   Thu Aug 29 10:07:30 2019 +0530
 
-  #   add all my files
+   add all my files
+# this is Your Commit:--l8ab9f78534a5g8de5d90ac15cdf796afd770e8e
