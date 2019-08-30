@@ -43,6 +43,7 @@ Step-10
 <br />
 # Ex---
  pc@linux:~/Downloads/GIT/UploadProject$ git log
+ <br />
  commit l8ab9f78534a5g8de5d90ac15cdf796afd770e8e (HEAD -> master, origin/master)
  Author: Your Name <you@example.com>
  Date:   Thu Aug 29 10:07:30 2019 +0530
